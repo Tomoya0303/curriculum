@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+ div.hed {
+	background-color: gray;
+}
+
+label.log {
+	display: inline-block;
+	padding: 10px;
+	color: white;
+}
+
+label.time {
+	padding: 10px;
+	font-size: 10px;
+}
+
+table {
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+div.foo {
+	background-color: gray;
+}
+
+label.hoge {
+	display: inline-block;
+	padding: 10px;
+	color: white;
+}
+
